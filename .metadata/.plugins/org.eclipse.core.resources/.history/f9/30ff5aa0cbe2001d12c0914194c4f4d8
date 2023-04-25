@@ -1,0 +1,5 @@
+package com.example.entry.repository;
+
+public interface entryinterface {
+
+}
